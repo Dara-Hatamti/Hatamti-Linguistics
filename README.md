@@ -64,3 +64,8 @@ Created by **Dara**, founder of Hatamti-Psychology and Hatamti-Linguistics. Part
 > “Language is not a tool. It is the being that carries us through all realms. We live within it. We are shaped by it. It will free us.”
 
 Forever evolving — **Jahattari** 💛💙🌳
+
+
+
+⚖️ This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+See LICENSE file or visit https://creativecommons.org/licenses/by/4.0/
