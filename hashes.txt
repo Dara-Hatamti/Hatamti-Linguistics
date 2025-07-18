@@ -1,0 +1,16 @@
+# SHA256 Hashes – Hatamti-Linguistics (Verified July 18, 2025)
+
+Lingui.txt
+3b2f03e06b8ae74f9d9684cb5db77e199e48056c5338247c8fab71ad5cbcbebe
+
+Hatamti-Linguistics-README.md
+35da3047e22e3b5a4a0f6f5b6ea233330cd43b91ed1403f148d6cb9bfee9821d
+
+SHA256 of this hashes.txt file:  
+fdf1d2c1b250cf47014b84d78cb84e9f4b8cbf1c914cb1d8bc2ae3f67f6a5564
+
+These are the original SHA256 hashes as generated on July 18, 2025.
+
+⚠️ Once this file is committed, we will generate a SHA256 hash of `hashes.txt` itself and post that fingerprint publicly — to ensure it remains unchanged forever.
+
+Jahattari 🌳💙
