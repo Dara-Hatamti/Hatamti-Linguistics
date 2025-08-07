@@ -13,4 +13,10 @@ These are the original SHA256 hashes as generated on July 18, 2025.
 
 ⚠️ Once this file is committed, we will generate a SHA256 hash of `hashes.txt` itself and post that fingerprint publicly — to ensure it remains unchanged forever.
 
+
+# SHA256 Hashes – Hatamti-Linguistics (Verified August 7, 2025) 
+Lingui updated.txt  
+6f421ae79b2b5dc0fef27a280fffcf77631a3ed93cb2c99dfe870e8f4b4799e  
+
+
 Jahattari 🌳💙
